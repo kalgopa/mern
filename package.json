@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kalgopa/mern#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "~4.16.1"
   }
 }
