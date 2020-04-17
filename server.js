@@ -5,4 +5,6 @@ app.get('/', function (req, res) {
     res.send("Hello from server.js")
 });
 
+app.listen(3000);
+
 console.log("Server running on port 3000");
